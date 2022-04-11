@@ -24,8 +24,6 @@ Useage:
    * Enable platform power management
 6. Restart your computer. when the opencore boot gui react displays, first you should unlock the cfglock with the [CFGlock.efi](https://www.tonymacx86.com/threads/guide-unlocking-cfg-with-opencore-and-cfglock-efi.305163/)  (has been puted into EFI->OC->Tools folder, just use), then select the install option to start a install. Just wait and see a miracle!!!
 
-Disable your
-
 # My device Informations
 
 Here are my main device infos.
